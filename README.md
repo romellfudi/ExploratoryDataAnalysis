@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 
-## Analyzing data sets to summarize their main characteristics
+## Essential Exploratory Data Analysis(EDA) techniques. Peru road to World Cup 2018 
 
 ### By Romell Domínguez
 [![](snapshot/icono.png)](https://www.romellfudi.com/)
