@@ -9,7 +9,7 @@
 
 ### You can also view online via:
 
-#### Perú va al Mundial Rusia 2018 -> [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](ttp://nbviewer.jupyter.org/github/romellfudi/ExploratoryDataAnalysis/blob/master/Peru%20Al%20Mundial.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/ExploratoryDataAnalysis/master?filepath=Peru%2520Al%2520Mundial.ipynb) [![Colab](https://img.shields.io/badge/launch-colaboratory-yellow.svg)](https://colab.research.google.com/github/romellfudi/ExploratoryDataAnalysis/blob/master/Peru%20Al%20Mundial.ipynb)
+#### Perú va al Mundial Rusia 2018 -> [![NBViwer](https://img.shields.io/badge/display-nbviwer-blue.svg)](http://nbviewer.jupyter.org/github/romellfudi/ExploratoryDataAnalysis/blob/master/Peru%20Al%20Mundial.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/romellfudi/ExploratoryDataAnalysis/master?filepath=Peru%2520Al%2520Mundial.ipynb) [![Colab](https://img.shields.io/badge/launch-colaboratory-yellow.svg)](https://colab.research.google.com/github/romellfudi/ExploratoryDataAnalysis/blob/master/Peru%20Al%20Mundial.ipynb)
 
 ## Requirements
 
