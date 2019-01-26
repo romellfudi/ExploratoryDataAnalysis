@@ -3,7 +3,7 @@
 ## Essential Exploratory Data Analysis(EDA) techniques. Peru road to World Cup 2018 
 
 ### By Romell Domínguez
-[![](https://raw.githubusercontent.com/romellfudi/assets/master/favicon.ico#favico)](https://www.romellfudi.com/)
+[![](https://raw.githubusercontent.com/romellfudi/assets/master/favicon.ico)](https://www.romellfudi.com/)
 
 ## FIFA 2018 Data Analysis
 
