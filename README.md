@@ -1,3 +1,5 @@
+![Gemini_Generated_Image_6btpxu6btpxu6btp](https://github.com/user-attachments/assets/0ca28037-de95-4d36-a610-f54fbcd1e966)
+
 # Exploratory Data Analysis
 
 ## Essential Exploratory Data Analysis(EDA) techniques. Peru road to World Cup 2018 
