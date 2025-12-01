@@ -4,6 +4,11 @@
 
 ## Essential Exploratory Data Analysis(EDA) techniques. Peru road to World Cup 2018 
 
+
+<h1 align="center">Architecture Overview</h1>
+<img width="2816" height="1536" alt="arquitecture_overview" src="https://github.com/user-attachments/assets/22d5b34f-fd58-493a-a6ab-b3898888736a" />
+
+
 ### By Romell Domínguez
 [![](https://raw.githubusercontent.com/romellfudi/assets/master/favicon.ico)](https://www.romellfudi.com/)
 
